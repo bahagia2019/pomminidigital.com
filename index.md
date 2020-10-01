@@ -1,6 +1,6 @@
-# [pomminidigital.com](https://pomminidigital.com) [duniapommini.com](https://duniapommini.com)
+# [Edipertamini.com](http://www.edipertamini.com) [pomminidigital.com](https://pomminidigital.com) [duniapommini.com](https://duniapommini.com)
 
-![Image of Yaktocat](https://i.imgur.com/LKKxMc8l.png)
+![Image of Yaktocat](https://i.imgur.com/LKKxMc8h.png)
 
 [Jual Pom Mini Digital Murah - Harga bisa nego](https://pomminidigital.com/daftar-harga-pom-mini)
 
