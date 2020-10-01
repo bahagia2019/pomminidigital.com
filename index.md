@@ -1,45 +1,50 @@
+# [pomminidigital.com](https://pomminidigital.com) [duniapommini.com](https://duniapommini.com)
 
-##[pomminidigital.com](https://pomminidigital.com) [duniapommini.com](https://duniapommini.com)
+![Image of Yaktocat](https://i.imgur.com/LKKxMc8l.png)
 
 [Jual Pom Mini Digital Murah - Harga bisa nego](https://pomminidigital.com/daftar-harga-pom-mini)
 
 [POM MINI DIGITAL - PERTAMINI POM MINI 2 NOZZLE DIGITAL](https://duniapommini.com/pertamini-pom-mini-2-nozzle-digital)
 
 
-## Welcome to GitHub Pages
+## BISNIS POM MINI DIGITAL SEBAGAI INVESTASI JANGKA PANJANG MENGUNTUNGKAN
+Jual bensin eceran layaknya di SPBU dengan mesin pertamini/pom mini DIGITAL:
 
-You can use the [editor on GitHub](https://github.com/bahagia2019/pomminidigital.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+POM MINI DIGITAL 1 NOZZLE ialah Pom mini yang mesinnya hanya satu selang nozel dan digunakan hanya buat satu produk bahan bakar minyak contohnya hanya digunakan buat Produk Pertalite saja maupun pertamax maupun solar dan produk yang yang lain, besar casing masih sama 200 cm lebar 110 cm dan lebar kebelakang 80 cm buat gendongan casingnya saja dan buat ukuran lebar ke balik bagian atasnya tetap 40cm. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### HARGA POM MINI DIGITAL 1 NOZZLE Rp7.500.000 Hubungi Bpk.Edi pom mini 
+> [phone/whatsapp: +62 858-6473-8324](https://api.whatsapp.com/send?phone=6285864738324&text=BPK.EDI%20Saya%20mau%20beli%20*https://pomminidigital.com/daftar-harga-pom-mini/*%20berapa%20harga%20Pom%20Mini)
 
-### Markdown
+> [Phone/whatsapp: +62 822-4078-7756](https://api.whatsapp.com/send?phone=6282240787756&text=BPK.EDI%20Saya%20mau%20beli%20*https://pomminidigital.com/daftar-harga-pom-mini/*%20berapa%20harga%20Pom%20Mini)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image of Yaktocat](https://i.imgur.com/u9LAqmK.png)
 
-```markdown
-Syntax highlighted code block
+# Spesifikasi Produk pom mini 
 
-# Header 1
-## Header 2
-### Header 3
+* 4 mesin,4 nozzle dan 4 tangki
+* ukuran lebar 75 x panjang 200 x tinggi 190 (jenis tangki luar/tanam), lebar 75 x panjang 270 x tinggi 190 (utk jenis portable)
+* CPU version pomminidigital.com 2020
+* Led Display seven segment
+* Tera flow sensor
+* Setting liter,resset pengeluaran,cek pengeluaran,ubah harga dan setting full tank =pompa merk mozwell,berkualitas khusus untuk memompa bahan bakar
+* Tebal plat 1,2 mm
+* Presissi tiap sudut (di tekuk dengan mesin bending)
+* Selang swivell 4 meter lapis kawat baja
+* Nozle otomatis berkualitas
+* Cat poxy dan duco,awet tahan lama dan anti karat
+* Tersedia jenis tangki tanam/tangki luar dan Portable (tangki di dalam mesin dan dilengkapi 6 roda pada bagian bawah mesin)
+* Kapasitas tangki drum penyimpanan masing masing 120 liter total 480 liter (jenis portbale),utk jenis tangki luar kapasitas masing masing 210 liter, total 840 ltr.
+* daya listrik 120 watt (runnimg) dan 5 watt (stand by),pengeluaran 300 liter/hari biaya listrik 25 ribu/bulan.
 
-- Bulleted
-- List
+# GARANSI mesin dan spare part pertamini selama 1 tahun ( Harga diluar ongkos kirim )
 
-1. Numbered
-2. List
+![Image of Yaktocat](https://i.imgur.com/2zL6RJr.jpg)
 
-**Bold** and _Italic_ and `Code` text
+[PomMiniDigital.com Jual Pom Mini Digital Murah bisa nego](https://pomminidigital.com/daftar-harga-pom-mini)
 
-[Link](url) and ![Image](https://duniapommini.com/wp-content/uploads/2020/09/Daftar-Harga-pom-mini-digital-Indonesia-2020-1.jpg)
-```
+Alamat Pabrik pertamini, Jl.Jajaway No.10 Rt.01/Rw.18 Antapani Kidul, Bandung 40291
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Hubungi Bpk.Edi pom mini 
+> [phone/whatsapp: +62 858-6473-8324](https://api.whatsapp.com/send?phone=6285864738324&text=BPK.EDI%20Saya%20mau%20beli%20*https://pomminidigital.com/daftar-harga-pom-mini/*%20berapa%20harga%20Pom%20Mini)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bahagia2019/pomminidigital.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.u
+> [Phone/whatsapp: +62 822-4078-7756](https://api.whatsapp.com/send?phone=6282240787756&text=BPK.EDI%20Saya%20mau%20beli%20*https://pomminidigital.com/daftar-harga-pom-mini/*%20berapa%20harga%20Pom%20Mini)
