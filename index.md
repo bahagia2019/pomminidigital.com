@@ -1,3 +1,10 @@
+
+pomminidigital.com duniapommini.com
+
+[Jual Pom Mini Digital Murah - Harga bisa nego](https://pomminidigital.com/daftar-harga-pom-mini)
+[POM MINI DIGITAL - PERTAMINI POM MINI 2 NOZZLE DIGITAL](https://duniapommini.com/pertamini-pom-mini-2-nozzle-digital)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bahagia2019/pomminidigital.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
