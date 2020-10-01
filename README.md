@@ -1,4 +1,4 @@
-###[pomminidigital.com](https://pomminidigital.com) [duniapommini.com](https://duniapommini.com)
+#[pomminidigital.com](https://pomminidigital.com) [duniapommini.com](https://duniapommini.com)
 
 [Jual Pom Mini Digital Murah - Harga bisa nego](https://pomminidigital.com/daftar-harga-pom-mini)
 
@@ -38,9 +38,10 @@ HARGA POM MINI DIGITAL 1 NOZZLE Rp7.500.000 Hubungi Bpk.Edi pom mini [phone/what
 ![Image of Yaktocat](https://i.imgur.com/2zL6RJr.jpg)
 
 [PomMiniDigital.com Jual Pom Mini Digital Murah bisa nego](https://pomminidigital.com/daftar-harga-pom-mini)
+
 Alamat Pabrik pertamini, Jl.Jajaway No.10 Rt.01/Rw.18 Antapani Kidul, Bandung 40291
 
 Hubungi Bpk.Edi pom mini 
-[phone/whatsapp: +62 858-6473-8324](https://api.whatsapp.com/send?phone=6285864738324&text=BPK.EDI%20Saya%20mau%20beli%20*https://pomminidigital.com/daftar-harga-pom-mini/*%20berapa%20harga%20Pom%20Mini)
+> [phone/whatsapp: +62 858-6473-8324](https://api.whatsapp.com/send?phone=6285864738324&text=BPK.EDI%20Saya%20mau%20beli%20*https://pomminidigital.com/daftar-harga-pom-mini/*%20berapa%20harga%20Pom%20Mini)
 
-[Phone/whatsapp: +62 822-4078-7756](https://api.whatsapp.com/send?phone=6282240787756&text=BPK.EDI%20Saya%20mau%20beli%20*https://pomminidigital.com/daftar-harga-pom-mini/*%20berapa%20harga%20Pom%20Mini)
+> [Phone/whatsapp: +62 822-4078-7756](https://api.whatsapp.com/send?phone=6282240787756&text=BPK.EDI%20Saya%20mau%20beli%20*https://pomminidigital.com/daftar-harga-pom-mini/*%20berapa%20harga%20Pom%20Mini)
