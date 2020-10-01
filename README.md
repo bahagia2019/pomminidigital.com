@@ -8,15 +8,15 @@ Jual bensin eceran layaknya di SPBU dengan mesin pertamini/pom mini DIGITAL:
 
 POM MINI DIGITAL 1 NOZZLE ialah Pom mini yang mesinnya hanya satu selang nozel dan digunakan hanya buat satu produk bahan bakar minyak contohnya hanya digunakan buat Produk Pertalite saja maupun pertamax maupun solar dan produk yang yang lain, besar casing masih sama 200 cm lebar 110 cm dan lebar kebelakang 80 cm buat gendongan casingnya saja dan buat ukuran lebar ke balik bagian atasnya tetap 40cm. HARGA POM MINI DIGITAL 1 NOZZLE Rp7.500.000
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://pomminidigital.com/wp-content/uploads/2020/09/promo-pom-mini-Digital-2-Nozzle.png)
 
 # Spesifikasi Produk pom mini 
 
-4 mesin,4 nozzle dan 4 tangki
-ukuran lebar 75 x panjang 200 x tinggi 190 (jenis tangki luar/tanam), lebar 75 x panjang 270 x tinggi 190 (utk jenis portable)
-CPU version pomminidigital.com 2020
-Led Display seven segment
-Tera flow sensor
+* 4 mesin,4 nozzle dan 4 tangki
+* ukuran lebar 75 x panjang 200 x tinggi 190 (jenis tangki luar/tanam), lebar 75 x panjang 270 x tinggi 190 (utk jenis portable)
+* CPU version pomminidigital.com 2020
+* Led Display seven segment
+* Tera flow sensor
 Setting liter,resset pengeluaran,cek pengeluaran,ubah harga dan setting full tank =pompa merk mozwell,berkualitas khusus untuk memompa bahan bakar
 Tebal plat 1,2 mm
 Presissi tiap sudut (di tekuk dengan mesin bending)
