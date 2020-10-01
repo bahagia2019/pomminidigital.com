@@ -15,7 +15,7 @@ POM MINI DIGITAL 1 NOZZLE ialah Pom mini yang mesinnya hanya satu selang nozel d
 
 > [Phone/whatsapp: +62 822-4078-7756](https://api.whatsapp.com/send?phone=6282240787756&text=BPK.EDI%20Saya%20mau%20beli%20*https://pomminidigital.com/daftar-harga-pom-mini/*%20berapa%20harga%20Pom%20Mini)
 
-![Image of Yaktocat](https://pomminidigital.com/wp-content/uploads/2020/09/promo-pom-mini-Digital-2-Nozzle.png)
+![Image of Yaktocat](https://i.imgur.com/u9LAqmK.png)
 
 # Spesifikasi Produk pom mini 
 
@@ -34,7 +34,7 @@ POM MINI DIGITAL 1 NOZZLE ialah Pom mini yang mesinnya hanya satu selang nozel d
 * Kapasitas tangki drum penyimpanan masing masing 120 liter total 480 liter (jenis portbale),utk jenis tangki luar kapasitas masing masing 210 liter, total 840 ltr.
 * daya listrik 120 watt (runnimg) dan 5 watt (stand by),pengeluaran 300 liter/hari biaya listrik 25 ribu/bulan.
 
-#GARANSI mesin dan spare part pertamini selama 1 tahun ( Harga diluar ongkos kirim )
+# GARANSI mesin dan spare part pertamini selama 1 tahun ( Harga diluar ongkos kirim )
 
 ![Image of Yaktocat](https://i.imgur.com/2zL6RJr.jpg)
 
