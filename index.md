@@ -1,5 +1,5 @@
 
-##[pomminidigital.com](https://pomminidigital.com) [duniapommini.com](ttps://duniapommini.com)
+##[pomminidigital.com](https://pomminidigital.com) [duniapommini.com](https://duniapommini.com)
 
 [Jual Pom Mini Digital Murah - Harga bisa nego](https://pomminidigital.com/daftar-harga-pom-mini)
 
@@ -31,7 +31,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://duniapommini.com/wp-content/uploads/2020/09/Daftar-Harga-pom-mini-digital-Indonesia-2020-1.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
