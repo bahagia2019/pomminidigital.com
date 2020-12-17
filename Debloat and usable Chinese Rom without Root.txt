@@ -1,0 +1,356 @@
+adb devices
+fastboot oem unlock
+fastboot devices
+Fastboot sideload miui_MI4LTECT_8.9.13_1b1c548b0c_6.0AKU.zip 
+adb sideload magisk-mount.zip
+adb sideload MagiskMountUnMountIMG-v1.3.zip
+adb sideload miui_MI4LTECT_8.9.13_1b1c548b0c_6.0AKU.zip 
+MIUI 10 Debloat and usable Chinese Rom miui_MI4LTECT_8.9.13_1b1c548b0c_6.0
+https://forum.xda-developers.com/xiaomi-mi-10/how-to/safe-debloat-xiaomiadbfastboottools-t4100287
+https://forum.xda-developers.com/xiaomi-mi-10/how-to/guide-debloat-usable-chinese-rom-root-t4066909
+https://www.droidviews.com/install-apk-files-using-adb-commands/
+
+
+adb install xiaomi-market-20-10-30-3000.apk
+adb install -r xiaomi-market-20-10-30-3000.apk
+
+adb shell
+pm list packages
+pm uninstall -k --user 0 com.miui.player
+pm uninstall -k --user 0 com.miui.voiceassist
+pm uninstall -k --user 0 com.xiaomi.payment
+pm uninstall -k --user 0 com.miui.video
+pm uninstall -k --user 0 com.mipay.wallet
+pm uninstall -k --user 0 com.miui.nextpay
+pm uninstall -k --user 0 com.sohu.inputmethod.sogou.xiaomi
+pm uninstall -k --user 0 com.miui.smarttravel
+pm uninstall -k --user 0 com.miui.newhome
+pm uninstall -k --user 0 com.unionpay.tsmservice.mi
+pm uninstall -k --user 0 com.miui.translation.youdao
+pm uninstall -k --user 0 com.miui.weather2
+pm uninstall -k --user 0 com.miui.personalassistant
+pm uninstall -k --user 0 com.android.browser
+pm uninstall -k --user 0 com.miui.fm
+pm uninstall -k --user 0 com.xiaomi.glgm
+pm uninstall -k --user 0 com.miui.micloudsync
+pm uninstall -k --user 0 com.miui.cloudbackup
+pm uninstall -k --user 0 com.miui.cloudservice
+pm uninstall -k --user 0 com.miui.translation.kingsoft
+pm uninstall -k --user 0 com.miui.translation.xmcloud
+pm uninstall -k --user 0 com.tencent.soter.soterserver
+pm uninstall -k --user 0 android.romstats
+pm uninstall -k --user 0 cn.wps.xiaomi.abroad.lite
+pm uninstall -k --user 0 com.android.bips
+pm uninstall -k --user 0 com.miui.nextpay
+pm uninstall -k --user 0 com.miui.providers.weather
+pm uninstall -k --user 0 com.miui.vsimcore
+pm uninstall -k --user 0 com.miui.yellowpage
+pm uninstall -k --user 0 com.mi.android.globalminusscreen
+pm uninstall -k --user 0 com.milink.service
+pm uninstall -k --user 0 com.miui.analytics
+pm uninstall -k --user 0 com.miui.daemon
+pm uninstall -k --user 0 com.miui.smsextra
+pm uninstall -k --user 0 com.milink.service
+pm uninstall -k --user 0 com.xiaomi.ab
+pm uninstall -k --user 0 com.android.calendar
+pm uninstall -k --user 0 com.android.fileexplorer
+pm uninstall -k --user 0 com.xunmeng.pinduoduo
+pm uninstall -k --user 0 com.zhihu.android
+pm uninstall -k --user 0 com.xiaomi.jr
+pm uninstall -k --user 0 com.sina.weibo
+pm uninstall -k --user 0 com.ximalaya.ting.android
+pm uninstall -k --user 0 com.UCMobile
+pm uninstall -k --user 0 com.Qunar
+pm uninstall -k --user 0 com.doukan.reader
+pm uninstall -k --user 0 com.miui.notes
+pm uninstall -k --user 0 com.miui.miservice
+pm uninstall -k --user 0 com.xiaomi.youpin
+pm uninstall -k --user 0 com.xiaomi.smarthome
+pm uninstall -k --user 0 com.xiaomi.vipaccount
+pm uninstall -k --user 0 com.baidu.searchbox
+pm uninstall -k --user 0 cn.wps.moffice_eng
+pm uninstall -k --user 0 com.ss.android.ugc.aweme
+pm uninstall -k --user 0 com.qiyi.video
+pm uninstall -k --user 0 com.tencent.qqlive
+pm uninstall -k --user 0 com.smile.gifmaker
+pm uninstall -k --user 0 com.taobao.taobao
+pm uninstall -k --user 0 com.eastmoney.andriod.berlin
+pm uninstall -k --user 0 com.tencent.qqlive
+pm uninstall -k --user 0 com.tencent.mtt
+pm uninstall -k --user 0 com.eg.android.AlipayGphone
+pm uninstall -k --user 0 me.ele
+pm uninstall -k --user 0 com.duokan.phone.remotecontroller
+pm uninstall -k --user 0 com.xunmeng.pinduoduo
+pm uninstall -k --user 0 com.duokan.reader
+pm uninstall -k --user 0 com.autonavi.minimap
+pm uninstall -k --user 0 com.android.quicksearchbox
+pm uninstall -k --user 0 com.android.email
+pm uninstall -k --user 0 com.android.browser
+pm uninstall -k --user 0 com.miui.virtualsim
+pm uninstall -k --user 0 com.miui.hybird
+pm uninstall -k --user 0 com.miui.smarttravel
+pm uninstall -k --user 0 com.xiaomi.mibrain.speech
+pm uninstall -k --user 0 com.mi.liveassistant
+pm uninstall -k --user 0 com.mi.health
+pm uninstall -k --user 0 com.iflytek.inputmethod.miui
+pm uninstall -k --user 0 com.baidu.input_mi
+pm uninstall -k --user 0 com.facebook.katana
+pm uninstall -k --user 0 com.facebook.system
+pm uninstall -k --user 0 com.facebook.appmanager
+pm uninstall -k --user 0 com.facebook.services
+pm uninstall -k --user 0 com.xiaomi.midrop.overlay
+pm uninstall -k --user 0 com.xiaomi.midrop
+pm uninstall -k --user 0 com.mfashiongallery.emag
+pm uninstall -k --user 0 com.miui.android.fashiongallery
+pm uninstall -k --user 0 com.miui.videoplayer.overlay
+pm uninstall -k --user 0 com.xiaomi.shop
+pm uninstall -k --user 0 com.xiaomi.market jangan
+
+
+# disable
+adb shell pm disable-user com.miui.contentextension
+adb shell pm disable-user com.miui.fm
+adb shell pm disable-user com.miui.qr
+adb shell pm disable-user com.miui.systemAdSolution
+adb shell pm disable-user com.miui.hybrid
+adb shell pm disable-user com.miui.player
+adb shell pm disable-user com.miui.translation.kingsoft
+adb shell pm disable-user com.miui.voicetrigger
+adb shell pm disable-user com.miui.translation.youdao
+adb shell pm disable-user com.miui.newhome
+adb shell pm disable-user com.miui.video
+adb shell pm disable-user com.miui.translationservice
+adb shell pm disable-user com.miui.hybrid.accessory
+adb shell pm disable-user com.miui.translation.xmcloud
+adb shell pm disable-user com.miui.miwallpaper
+adb shell pm disable-user com.miui.analytics
+adb shell pm disable-user com.miui.yellowpage
+adb shell pm disable-user com.miui.voiceassist
+adb shell pm disable-user com.xiaomi.vipaccount
+adb shell pm disable-user com.xiaomi.gamecenter
+adb shell pm disable-user com.xiaomi.gamecenter.sdk.service
+adb shell pm disable-user com.xiaomi.ab
+adb shell pm disable-user com.sohu.inputmethod.sogou.xiaomi
+adb shell pm disable-user com.android.quicksearchbox
+adb shell pm disable-user com.android.thememanager
+adb shell pm disable-user com.duokan.reader
+pm uninstall -k --user 0 com.xiaomi.drivemode
+pm uninstall -k --user 0 com.miui.voiceassist
+pm uninstall -k --user 0 com.xiaomi.payment
+pm uninstall -k --user 0 com.miui.video
+pm uninstall -k --user 0 com.mipay.wallet
+pm uninstall -k --user 0 com.miui.nextpay
+pm uninstall -k --user 0 com.sohu.inputmethod.sogou.xiaomi
+pm uninstall -k --user 0 com.miui.smarttravel
+pm uninstall -k --user 0 com.miui.newhome
+pm uninstall -k --user 0 com.unionpay.tsmservice.mi
+pm uninstall -k --user 0 com.miui.translation.youdao
+pm uninstall -k --user 0 com.miui.weather2
+pm uninstall -k --user 0 com.miui.personalassistant
+pm uninstall -k --user 0 com.miui.bugreport
+pm uninstall -k --user 0 com.android.browser
+pm uninstall -k --user 0 com.miui.fm
+pm uninstall -k --user 0 com.xiaomi.glgm
+pm uninstall -k --user 0 com.miui.micloudsync
+pm uninstall -k --user 0 com.miui.cloudbackup
+pm uninstall -k --user 0 com.miui.cloudservice
+pm uninstall -k --user 0 com.miui.translation.kingsoft
+pm uninstall -k --user 0 com.miui.translation.xmcloud
+pm uninstall -k --user 0 com.tencent.soter.soterserver
+pm uninstall -k --user 0 android.romstats
+pm uninstall -k --user 0 cn.wps.xiaomi.abroad.lite
+pm uninstall -k --user 0 com.android.bips
+pm uninstall -k --user 0 com.miui.nextpay
+pm uninstall -k --user 0 com.miui.providers.weather
+pm uninstall -k --user 0 com.miui.vsimcore
+pm uninstall -k --user 0 com.miui.yellowpage
+pm uninstall -k --user 0 com.mi.android.globalminusscreen
+pm uninstall -k --user 0 com.milink.service
+pm uninstall -k --user 0 com.miui.analytics
+pm uninstall -k --user 0 com.miui.smsextra
+pm uninstall -k --user 0 com.milink.service
+pm uninstall -k --user 0 com.xiaomi.ab
+pm uninstall -k --user 0 com.android.calendar
+pm uninstall -k --user 0 com.android.fileexplorer
+pm uninstall -k --user 0 com.xunmeng.pinduoduo
+pm uninstall -k --user 0 com.zhihu.android
+pm uninstall -k --user 0 com.xiaomi.jr
+pm uninstall -k --user 0 com.sina.weibo
+pm uninstall -k --user 0 com.ximalaya.ting.android
+pm uninstall -k --user 0 com.UCMobile
+pm uninstall -k --user 0 com.Qunar
+pm uninstall -k --user 0 com.doukan.reader
+pm uninstall -k --user 0 com.miui.notes
+pm uninstall -k --user 0 com.miui.miservice
+pm uninstall -k --user 0 com.xiaomi.youpin
+pm uninstall -k --user 0 com.xiaomi.smarthome
+pm uninstall -k --user 0 com.xiaomi.vipaccount
+pm uninstall -k --user 0 com.baidu.searchbox
+pm uninstall -k --user 0 cn.wps.moffice_eng
+pm uninstall -k --user 0 com.ss.android.ugc.aweme
+pm uninstall -k --user 0 com.qiyi.video
+pm uninstall -k --user 0 com.tencent.qqlive
+pm uninstall -k --user 0 com.smile.gifmaker
+pm uninstall -k --user 0 com.taobao.taobao
+pm uninstall -k --user 0 com.eastmoney.andriod.berlin
+pm uninstall -k --user 0 com.tencent.qqlive
+pm uninstall -k --user 0 com.tencent.mtt
+pm uninstall -k --user 0 com.eg.android.AlipayGphone
+pm uninstall -k --user 0 me.ele
+pm uninstall -k --user 0 com.duokan.phone.remotecontroller
+pm uninstall -k --user 0 com.xunmeng.pinduoduo
+pm uninstall -k --user 0 com.duokan.reader
+pm uninstall -k --user 0 com.autonavi.minimap
+pm uninstall -k --user 0 com.android.quicksearchbox
+pm uninstall -k --user 0 com.android.email
+pm uninstall -k --user 0 com.android.browser
+pm uninstall -k --user 0 com.miui.virtualsim
+pm uninstall -k --user 0 com.miui.hybird
+pm uninstall -k --user 0 com.miui.smarttravel
+pm uninstall -k --user 0 com.xiaomi.mibrain.speech
+pm uninstall -k --user 0 com.mi.liveassistant
+pm uninstall -k --user 0 com.mi.health
+pm uninstall -k --user 0 com.iflytek.inputmethod.miui
+pm uninstall -k --user 0 com.baidu.input_mi
+pm uninstall -k --user 0 com.xiaomi.drivemode
+pm uninstall -k --user 0 sogou.mobile.explorer
+pm uninstall -k --user 0 com.xiaomi.gamecenter.sdk.service
+pm uninstall -k --user 0 com.xiaomi.payment
+pm uninstall -k --user 0 com.androidmarket.dingzhi
+pm uninstall -k --user 0 com.qihoo360.mobilesafe
+pm uninstall -k --user 0 com.miui.notes
+pm uninstall -k --user 0 com.sohu.inputmethod.sogou.xiaomi
+pm uninstall -k --user 0 com.qihoo.appstore
+pm uninstall -k --user 0 com.android.email
+pm uninstall -k --user 0 com.browser_llqhz
+pm uninstall -k --user 0 com.miui.virtualsim
+pm uninstall -k --user 0 com.miui.backup
+pm uninstall -k --user 0 com.miui.hybrid
+pm uninstall -k --user 0 com.miui.hybrid.accessory
+pm uninstall -k --user 0 com.android.quicksearchbox
+pm uninstall -k --user 0 com.miui.voiceassist
+pm uninstall -k --user 0 com.miui.bugreport
+pm uninstall -k --user 0 com.miui.touchassistant
+pm uninstall -k --user 0 com.xiaomi.gamecenter
+pm uninstall -k --user 0 com.miui.userguide
+pm uninstall -k --user 0 com.miui.cloudservice
+pm uninstall -k --user 0 com.android.midrive
+pm uninstall -k --user 0 com.miui.contentextension
+pm uninstall -k --user 0 com.android.providers.userdictionary
+pm uninstall -k --user 0 com.xiaomi.drivemode
+pm uninstall -k --user 0 com.miui.personalassistant
+pm uninstall -k --user 0 com.android.calllogbackup
+pm uninstall -k --user 0 com.miui.systemAdSolution msa
+pm uninstall -k --user 0 com.miui.compass
+# uninstall
+adb shell pm uninstall --user 0 com.miui.fm
+adb shell pm uninstall --user 0 com.miui.qr
+adb shell pm uninstall --user 0 com.miui.systemAdSolution
+adb shell pm uninstall --user 0 com.miui.hybrid
+adb shell pm uninstall --user 0 com.miui.player
+adb shell pm uninstall --user 0 com.miui.translation.kingsoft
+adb shell pm uninstall --user 0 com.miui.voicetrigger
+adb shell pm uninstall --user 0 com.miui.translation.youdao
+adb shell pm uninstall --user 0 com.miui.newhome
+adb shell pm uninstall --user 0 com.miui.video
+adb shell pm uninstall --user 0 com.miui.translationservice
+adb shell pm uninstall --user 0 com.miui.hybrid.accessory
+adb shell pm uninstall --user 0 com.miui.translation.xmcloud
+adb shell pm uninstall --user 0 com.miui.miwallpaper
+adb shell pm uninstall --user 0 com.miui.analytics
+adb shell pm uninstall --user 0 com.miui.yellowpage
+adb shell pm uninstall --user 0 com.miui.voiceassist
+adb shell pm uninstall --user 0 com.xiaomi.gamecenter
+adb shell pm uninstall --user 0 com.xiaomi.gamecenter.sdk.service
+adb shell pm uninstall --user 0 com.xiaomi.ab
+adb shell pm uninstall --user 0 com.sohu.inputmethod.sogou.xiaomi
+adb shell pm uninstall --user 0 com.android.quicksearchbox
+adb shell pm uninstall --user 0 com.android.thememanager
+adb shell pm uninstall --user 0 com.duokan.reader
+
+
+adb shell pm uninstall -k --user 0 com.miui.daemon
+adb shell pm uninstall -k --user 0 com.miui.fm
+adb shell pm uninstall -k --user 0 com.miui.gallery
+adb shell pm uninstall -k --user 0 com.miui.hybrid
+adb shell pm uninstall -k --user 0 com.miui.hybrid.accessory
+adb shell pm uninstall -k --user 0 com.miui.klo.bugreport
+adb shell pm uninstall -k --user 0 com.miui.notes
+adb shell pm uninstall -k --user 0 com.miui.personalassistant
+adb shell pm uninstall -k --user 0 com.miui.player
+adb shell pm uninstall -k --user 0 com.miui.screenrecorder
+adb shell pm uninstall -k --user 0 com.miui.systemAdSolution
+adb shell pm uninstall -k --user 0 com.miui.translation.kingsoft
+adb shell pm uninstall -k --user 0 com.miui.translationservice
+adb shell pm uninstall -k --user 0 com.miui.translation.youdao
+adb shell pm uninstall -k --user 0 com.miui.video
+adb shell pm uninstall -k --user 0 com.miui.videoplayer
+adb shell pm uninstall -k --user 0 com.miui.videoplayer.overlay
+adb shell pm uninstall -k --user 0 com.miui.virtualsim
+adb shell pm uninstall -k --user 0 com.miui.vsimcore
+adb shell pm uninstall -k --user 0 com.miui.weather2
+adb shell pm uninstall -k --user 0 com.miui.yellowpage
+adb shell pm uninstall -k --user 0 com.mi.webkit.core
+adb shell pm uninstall -k --user 0 com.netflix.mediaclient
+adb shell pm uninstall -k --user 0 com.netflix.partner.activation
+adb shell pm uninstall -k --user 0 com.opera.app.news
+adb shell pm uninstall -k --user 0 com.opera.branding
+adb shell pm uninstall -k --user 0 com.opera.branding.news
+adb shell pm uninstall -k --user 0 com.opera.mini.native
+adb shell pm uninstall -k --user 0 com.phonepe.app
+adb shell pm uninstall -k --user 0 com.qiyi.video
+adb shell pm uninstall -k --user 0 com.skype.m2
+adb shell pm uninstall -k --user 0 com.sohu.inputmethod.sogou.xiaomi
+adb shell pm uninstall -k --user 0 com.til.timesnews
+adb shell pm uninstall -k --user 0 com.UCMobile.intl
+adb shell pm uninstall -k --user 0 com.xiaomi.ab
+adb shell pm uninstall -k --user 0 com.xiaomi.channel
+adb shell pm uninstall -k --user 0 com.xiaomi.gamecenter.sdk.service
+adb shell pm uninstall -k --user 0 com.xiaomi.glgm
+adb shell pm uninstall -k --user 0 com.xiaomi.joyose
+adb shell pm uninstall -k --user 0 com.xiaomi.jr
+adb shell pm uninstall -k --user 0 com.xiaomi.lens
+adb shell pm uninstall -k --user 0 com.xiaomi.midrop
+adb shell pm uninstall -k --user 0 com.xiaomi.mipicks
+adb shell pm uninstall -k --user 0 com.xiaomi.mirecycle
+adb shell pm uninstall -k --user 0 com.xiaomi.o2o
+adb shell pm uninstall -k --user 0 com.xiaomi.oversea.ecom
+adb shell pm uninstall -k --user 0 com.xiaomi.pass
+adb shell pm uninstall -k --user 0 com.xiaomi.payment
+adb shell pm uninstall -k --user 0 com.xiaomi.scanner
+adb shell pm uninstall -k --user 0 com.xiaomi.shop
+adb shell pm uninstall -k --user 0 com.xiaomi.vipaccount
+
+ROOTING, TWRP on CHINESE redmi note 8 pro MIUI 10.4.5.0 PGGEUXM
+
+
+PREPARING____
+- TWRP for redmi note 8 pro + Link for it : https://androidfilehost.com/?fid=1899786940962609481
+- ADB with properly installed drivers
+- A working computer
+- Locked RN8 pro users please stop reading here lol
+
+____Here is how_____
+-Connect your phone to your computer
+-Windows+R, pressing CMD and enter, or whatever you do to open up ADB
+- typing : adb devices ► to check if your phone is connected
+
+adb reboot-bootloader ► use this command if you don't want to destroy your button
+
+fastboot devices ► then copying downloaded twrp file to ADB root directory, then rename it to something that easy to type, eg: twrp.img, recovery.img,...
+
+fastboot flash recovery recovery.img ► i rename original file name to recovery.img
+
+► then quickly disconnect your phone from your pc, then immeadiately hold both volume up and power button, till the fastboot screen goes blank, release the power button but still holding the volume up button , until the twrp boots up flawlessly.
+
+► if twrp in Chinese, change it into English, if it ask for password , ignore it
+
+► then go to mount, mount SYSTEM, VENDOR, NVDATA
+
+► go back to main screen ADVANCED - file manager - /system_root - /system - find the recovery_fromboot.p and deleit to prevent your phone from restoring the stock recovery
+
+►go back to your main screen: ADVANCED- close AVB 2.0 then swipe to confirm, just tick only 1st box, ignore the second box
+
+►go back to your main screen, ADVANCED - Install root, then swipe to confirm, after that reboot to system, you can clear cache if you want.
+
+DONE !!!!------------------------------ remember that my phone is China ver, not global one--------------------------------------
